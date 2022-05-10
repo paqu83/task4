@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ppakulski/Documents/studia/sem4/Podstawy systemow informatycznych zarzadzania/lab/zad4/main.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+
